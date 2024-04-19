@@ -27,9 +27,9 @@ Temas:
 ## Sobre 
 Este repositório tem como objetivo a realização de exercícios de grafos do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
 
-1 - [](): Hard. [Vídeo](https://youtu.be/WV1VjKO7Lys)
+1 - [IPO](https://leetcode.com/problems/ipo/): Hard. [Vídeo](https://youtu.be/sA5PfNm9WOg)
 </br>
-2 - [Pride](https://codeforces.com/contest/892/problem/C): 1500 CodeForces div 2C. [Vídeo]()
+2 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/): Medium [Vídeo](https://youtu.be/Ob4qoMHnsxM)
 </br>
 3 - [](): Medium. [Vídeo]()
 </br>
@@ -38,15 +38,15 @@ Este repositório tem como objetivo a realização de exercícios de grafos do s
 ## Screenshots
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
 
-##### 1 - 
-![](assets/.png)
+##### 1 - IPO
+![](assets/IPO.png)
 
 <div style="text-align: center">
 <p> Imagem 1: Código aceito primeiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 2 - Pride
-![](assets/MC.png)
+##### 2 - Container With Most Water
+![](assets/CON.png)
 
 <div style="text-align: center">
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
