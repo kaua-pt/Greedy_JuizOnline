@@ -11,7 +11,7 @@
 | 18/0030736  |  Carla de Araújo|
 
 ## Sobre 
-Este repositório tem como objetivo a realização de exercícios de grafos do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
+Este repositório tem como objetivo a realização de exercícios de greedy do site [leetcode](https://leetcode.com/), seguem os exercícios solucionados com seus respectivos vídeos:
 
 1 - [IPO](https://leetcode.com/problems/ipo/): Hard. [Vídeo](https://youtu.be/sA5PfNm9WOg)
 </br>
