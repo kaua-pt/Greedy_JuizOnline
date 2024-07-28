@@ -17,7 +17,7 @@ Este repositório tem como objetivo a realização de exercícios de greedy do s
 </br>
 2 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/): Medium [Vídeo](https://youtu.be/Ob4qoMHnsxM)
 </br>
-3 - [](): Medium. [Vídeo]()
+3 - [Wrath](https://codeforces.com/problemset/problem/892/B): Medium - Div 2B CodeForces. [Vídeo](https://youtu.be/jUJdHT40NKI)
 </br>
 4 - [](): Medium. [Vídeo]()
 
@@ -38,8 +38,8 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 <p> Imagem 2: Código aceito segundo exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 3 - 
-![](assets/.png)
+##### 3 - Wrath
+![](assets/Wrath.png)
 
 <div style="text-align: center">
 <p> Imagem 3: Código aceito terceiro exercício (Fonte: Autor, 2024).</p>
