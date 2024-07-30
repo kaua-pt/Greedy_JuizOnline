@@ -19,7 +19,7 @@ Este repositório tem como objetivo a realização de exercícios de greedy do s
 </br>
 3 - [Wrath](https://codeforces.com/problemset/problem/892/B): Medium - Div 2B CodeForces. [Vídeo](https://youtu.be/jUJdHT40NKI)
 </br>
-4 - [](): Medium. [Vídeo]()
+4 - [Longest Palindromic Substring](https://youtu.be/fS5Hz9wfwfc): Medium. [Vídeo]()
 
 ## Screenshots
 As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo site:
@@ -45,8 +45,8 @@ As imagens 1 à 4 evidenciam as screenshots dos códigos que foram aceitos pelo 
 <p> Imagem 3: Código aceito terceiro exercício (Fonte: Autor, 2024).</p>
 </div>
 
-##### 4 - 
-![](assets/.png)
+##### 4 - Longest Palindromic Substring
+![image](https://github.com/user-attachments/assets/1af57ea8-8a80-4093-91e3-b5ac5b2cf1f7)
 
 <div style="text-align: center">
 <p> Imagem 4: Código aceito quarto exercício (Fonte: Autor, 2024).</p>
